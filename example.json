@@ -1,0 +1,44 @@
+{
+    "server1_id": [
+        {
+            "name": "game1",
+            "warden_id": "id",
+            "channels": {
+                "game_chat": "id",
+                "warden": "id",
+                "Player cards": "id",
+                "game voice": "id" 
+            },
+            "players": [
+                {
+                    "id": "user_id",
+                    "channel": "id",
+                    "status": "parked",
+                    "character": {
+                        "name": "name",
+                        "class": "class",
+                        "skills": [
+                            "list",
+                            "of",
+                            "skills"
+                        ],
+                        "patch": "word",
+                        "motto": "word",
+                        "items": [
+                            "list",
+                            "of",
+                            "items"
+                        ],
+                        "credits": 100,
+                        "max_hp": 5,
+                        "current_hp": 2,
+                        .....
+                    }
+
+                }
+            ]
+            "adversories":
+
+        }
+    ]
+}
